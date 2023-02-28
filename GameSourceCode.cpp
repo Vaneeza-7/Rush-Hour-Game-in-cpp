@@ -1,8 +1,8 @@
 //============================================================================
-// Name        : Vaneeza Ahmad
-// Roll no     : 21I-0390
-// Class       : BSCS-Y
-// Author      : FAST CS Department
+// Name        : Vaneeza-7
+// Roll no     : ---
+// Class       : ---
+// Author      : Vaneeza-7 CS Department
 // Version     : 2.1
 // Copyright   : (c) Reserved
 // Description : Basic 2D game of Rush Hour...
